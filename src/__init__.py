@@ -1,1 +1,1 @@
-from src.database import metadata # noqa
+from src.database import metadata
